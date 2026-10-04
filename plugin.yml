@@ -1,0 +1,9 @@
+id: systemtools
+name: SystemTools
+author: Programmer-MrWang
+version: 0.1.0
+description: SystemTools plugin for WinIsland
+github-link: https://github.com/Programmer-MrWang/SystemTools-for-WinIsland
+abi-version: 2
+entry: system_tools.dll
+icon: icon.png

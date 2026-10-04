@@ -1,0 +1,5 @@
+/target
+*.winisland-plugin.zip
+/icon-original.png
+/一键调试.cmd
+/构建主程序.cmd

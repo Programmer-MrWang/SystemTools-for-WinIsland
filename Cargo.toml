@@ -1,0 +1,15 @@
+[package]
+name = "systemtools"
+version = "0.1.0"
+edition = "2024"
+authors = ["Programmer-MrWang"]
+description = "SystemTools plugin for WinIsland"
+repository = "https://github.com/Programmer-MrWang/SystemTools-for-WinIsland"
+license = "GPL-3.0-only"
+
+[lib]
+name = "system_tools"
+crate-type = ["cdylib"]
+
+[dependencies]
+winisland-plugin-api = "0.11"
